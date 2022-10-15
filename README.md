@@ -74,4 +74,4 @@ CatBoostRegressor was observed to outperform the other algorithms by achieving t
 
 ## Feature Importance Analysis
 The model's explainability analysis using SHAP shown below indicates that 'incidenceRate' is the most infuential feature in the prediction task whereas 'PctPublicCoverage' is the least one.
-![](Proj_images/SHAP%20Analysis.png)
+![](SHAP analysis.png)
