@@ -70,7 +70,9 @@ To accomplish the objective of the project, the following tasks were performed:
 * SHAP
 
 ## Prediction Results Summary
+
 ![](https://github.com/Popseli/Predicting_Cancer_Death_Rate/blob/main/images/Results%202.jpg)
+
 CatBoostRegressor was observed to outperform the other algorithms by achieving the highest R squared of, the second least MAE and the least RMSE of . After tuning the algorithm, the optimal R squared of, MAE of and RMSE of were achieved.
 
 ## Feature Importance Analysis
