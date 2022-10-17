@@ -1,5 +1,5 @@
 ## Project Overview
-According to World Health Organization (WHO), cancer is the second leading cause of death globally and is responsible for an estimated 9.6 million deaths in 2018. Globally, about 1 in 6 deaths is due to cancer. Approximately 70% of deaths from cancer occur in low- and middle-income countries. Among the leading causes of cancer are high body mass index, low fruit and vegetable intake, lack of physical activity, tobacco use and alcohol use. However, many aspects of the behaviour of cancer disease are highly unpredictable. Even with the huge number of studies that have been done on the DNA mutation responsible for the disease, we are still unable to use these information at clinical level. It is important that we also understand other aspects of human life such as social and economic factors that are likely to impact the possibility of occurence of cancer and leverage them to predict death rate due to the disease. 
+According to World Health Organization (WHO), cancer is the second leading cause of death globally and is responsible for an estimated 9.6 million deaths in 2018. Globally, about 1 in 6 deaths is due to cancer. Approximately 70% of deaths from cancer occur in low- and middle-income countries. Among the leading causes of cancer are high body mass index, low fruit and vegetable intake, lack of physical activity, tobacco use and alcohol use. However, many aspects of the behaviour of cancer disease are highly unpredictable. Even with the huge number of studies that have been done on the DNA mutation responsible for the disease, we are still unable to use this information at clinical level. It is important that we also understand other aspects of human life such as social and economic factors that are likely to impact the possibility of occurence of cancer and leverage them to predict death rate due to the disease. [Here](https://github.com/Popseli/Predicting_Cancer_Death_Rate) is the Github link of the dataset and codes of the project.
 
 ## Objective
 The objective of this project is to develop a regression machine learning model that uses a set of given clinical, social and economic data to predict cancer death rate.
@@ -40,8 +40,8 @@ A dataset of 3048 records were collected from clinicaltrials.gov, cancer.gov and
 - PctOtherRace: Percent of county residents who identify in a category which is not White, Black, or Asian (b)
 - PctMarriedHouseholds: Percent of married households (b)
 - BirthRate: Number of live births relative to number of women in county (b)
-     (a): years 2010-2016
-     (b): 2013 Census Estimates
+         (a): years 2010-2016
+         (b): 2013 Census Estimates
      
 ## Task Performed
 To accomplish the objective of the project, the following tasks were performed:
@@ -64,7 +64,7 @@ To accomplish the objective of the project, the following tasks were performed:
 * Matplotlib
 * Seaborn
 * Recursive feature elimination with cross validation (RFECV)
-* Algorithms: Linear Regression, Ridge, Lasso, SVR, DecisionTreeRegressor, ExtraTreeRegressor, StackingRegressor, BaggingRegressor, RandomForestRegressor, GradientBoostRegressor, AdaBoostRegressor, LGBMRegressor, CatBoostRegressor, XGBRegressor, XGBRFRegressor
+* Algorithms compared: Linear Regression, Ridge, Lasso, SVR, DecisionTreeRegressor, ExtraTreeRegressor, StackingRegressor, BaggingRegressor, RandomForestRegressor, GradientBoostRegressor, AdaBoostRegressor, LGBMRegressor, CatBoostRegressor, XGBRegressor, XGBRFRegressor
 * KFold cross validation
 * Grid search with cross validation
 * SHAP
