@@ -2,7 +2,7 @@
 According to World Health Organization (WHO), cancer is the second leading cause of death globally and is responsible for an estimated 9.6 million deaths in 2018. Globally, about 1 in 6 deaths is due to cancer. Approximately 70% of deaths from cancer occur in low- and middle-income countries. Among the leading causes of cancer are high body mass index, low fruit and vegetable intake, lack of physical activity, tobacco use and alcohol use. However, many aspects of the behaviour of cancer disease are highly unpredictable. Even with the huge number of studies that have been done on the DNA mutation responsible for the disease, we are still unable to use these information at clinical level. It is important that we also understand other aspects of human life such as social and economic factors that are likely to impact the possibility of occurence of cancer and leverage them to predict death rate due to the disease. 
 
 ## Objective
-The objective of this project is to develop a machine learning model that uses a set of given clinical, social and economic data to predict cancer death rate.
+The objective of this project is to develop a regression machine learning model that uses a set of given clinical, social and economic data to predict cancer death rate.
 
 ## Data
 A dataset of 3048 records were collected from clinicaltrials.gov, cancer.gov and the US Census American Community Survey. The data consists of 34 variables including the target variable as described below:
