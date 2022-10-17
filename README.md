@@ -73,7 +73,7 @@ To accomplish the objective of the project, the following tasks were performed:
 
 ![](https://github.com/Popseli/Predicting_Cancer_Death_Rate/blob/main/images/Model%20Results.jpg)
 
-CatBoostRegressor was observed to outperform the other algorithms by achieving the highest R squared of, the second least MAE and the least RMSE of . After tuning the algorithm, the optimal R squared of, MAE of and RMSE of were achieved. The image below shows a visualized performance of the model, indicating highly accurate estimation of the death rate.
+CatBoostRegressor was observed to outperform the other algorithms by achieving the highest R squared of, the second least MAE and the least RMSE of . After tuning the algorithm, the optimal R squared of, MAE of and RMSE of were achieved. The images below show demostrate the model's performance, indicating highly accurate estimation of the death rate.
 
 ![](https://github.com/Popseli/Predicting_Cancer_Death_Rate/blob/main/images/Performance%20visualization.png)
 
