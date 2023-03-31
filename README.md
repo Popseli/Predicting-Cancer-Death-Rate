@@ -52,9 +52,9 @@ To accomplish the objective of the project, the following tasks were performed:
 - Feature encoding
 - Feature selection
 - Model evaluation
-- Hyperparameter tunign
+- Hyperparameter tuning
 - Visualization of the model's performance
-- Feature importance analysis
+- Model explainability and feature importance analysis
 
 ## Key Software and Libraries Used
 * Python
