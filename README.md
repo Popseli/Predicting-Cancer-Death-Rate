@@ -71,13 +71,13 @@ To accomplish the objective of the project, the following tasks were performed:
 
 ## Prediction Results Summary
 
-![](/images/Model%20Results.jpg)
+![](/images/Visualizing%20model's%20performance.png) 
 
-CatBoostRegressor was observed to outperform the other algorithms by achieving the highest R squared of, the second least MAE and the least RMSE of . After tuning the algorithm, the optimal R squared of, MAE of and RMSE of were achieved. The images below show demostrate the model's performance, indicating highly accurate estimation of the death rate.
+CatBoostRegressor was observed to outperform the other algorithms by achieving the highest R squared score of 0.55, and the least MAE and RMSE of 13.84 and 18.66 respectively. After tuning the algorithm, the optimal R squared of 0.56, MAE of 13.41 and RMSE of 17.56 were achieved. The images below show demostrate the model's performance, indicating highly accurate estimation of the death rate.
 
-![](/images/Performance%20visualization.png)
+![](/images/Visualizing%20model's%20performance.png)
 
-## Feature Importance Analysis
+## Model Explainability and Feature Importance Analysis
 The model's explainability analysis using SHAP shown below indicates that 'incidenceRate' is the most infuential feature in the prediction task whereas 'PctPublicCoverage' is the least one.
 
-![](/images/SHAP%20analysis.png?raw=true)
+![](/images/Model%20explainability.png)
