@@ -63,10 +63,6 @@ To accomplish the objective of the project, the following tasks were performed:
 * Pandas
 * Matplotlib
 * Seaborn
-* Recursive feature elimination with cross validation (RFECV)
-* Algorithms compared: Linear Regression, Ridge, Lasso, SVR, DecisionTreeRegressor, ExtraTreeRegressor, StackingRegressor, BaggingRegressor, RandomForestRegressor, GradientBoostRegressor, AdaBoostRegressor, LGBMRegressor, CatBoostRegressor, XGBRegressor, XGBRFRegressor
-* KFold cross validation
-* Grid search with cross validation
 * SHAP
 
 ## Prediction Results Summary
