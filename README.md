@@ -74,6 +74,6 @@ CatBoostRegressor was observed to outperform the other algorithms by achieving t
 ![](/images/Visualizing%20model's%20performance.png)
 
 ## Model Explainability and Feature Importance Analysis
-The model's explainability analysis using SHAP shown below indicates that 'incidenceRate' is the most useful feature for the prediction task whereas 'PercentMarried' is the least useful one.
+The model's explainability analysis using SHAP (shown below) indicates the ranking of the features in terms of their prediction importance whereby 'incidenceRate' is observed to be the most useful feature for the prediction task whereas 'PercentMarried' is the least useful one.
 
 ![](/images/Model%20explainability.png)
