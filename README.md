@@ -5,7 +5,7 @@ According to World Health Organization (WHO), cancer is the second leading cause
 The objective of this project is to develop a regression machine learning model that uses a set of given clinical, social and economic data to predict cancer death rate. [Here](https://github.com/Popseli/Predicting_Cancer_Death_Rate) is the Github link of the dataset and codes of the project.
 
 ## Data
-A dataset of 3048 records were collected from clinicaltrials.gov, cancer.gov and the US Census American Community Survey. The data consists of 34 variables including the target variable as described below:
+A dataset of 3,048 records were collected from clinicaltrials.gov, cancer.gov and the US Census American Community Survey. The data consists of 34 variables including the target variable as described below:
 - TARGET_deathRate: Dependent variable. Mean per capita (100,000) cancer mortalities(a)
 - avgAnnCount: Mean number of reported cases of cancer diagnosed annually(a)
 - avgDeathsPerYear: Mean number of reported mortalities due to cancer(a)
